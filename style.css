@@ -113,6 +113,7 @@ footer a{
 @media(max-width:768px) {
     .testimonials{
         grid-template-columns: 1fr;
+        margin: 20px auto;
         width: 100%;
     }
     .card:nth-of-type(1) {
